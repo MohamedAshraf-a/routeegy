@@ -1,0 +1,25 @@
+.active{
+    text-align: center;
+
+    background-color: #1ABC9C;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+}
+
+nav{
+    transition: .6s padding;
+    background-color: #2C3E50;
+
+}
+
+nav a{
+    font-size: 19px;
+    margin: 10px;
+    color: white;
+    font-weight: 500;
+    
+}
